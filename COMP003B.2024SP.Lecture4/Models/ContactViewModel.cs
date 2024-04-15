@@ -12,7 +12,7 @@ namespace COMP003B._2024SP.Lecture4.Models
         public string Email { get; set; }
         [Required, Phone]
         public string Phone { get; set; }
-        [Required, Range(0, 120)]
+        [Range(0, 120)]
         public int Age { get; set; }
     }
 }
