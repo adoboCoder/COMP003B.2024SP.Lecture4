@@ -1,7 +1,7 @@
 ﻿// TODO: add data annotations
 using System.ComponentModel.DataAnnotations;
 
-namespace COMP003B._2024SP.Lecture4.ViewModels
+namespace COMP003B._2024SP.Lecture4.Models
 {
     public class ContactViewModel
     {

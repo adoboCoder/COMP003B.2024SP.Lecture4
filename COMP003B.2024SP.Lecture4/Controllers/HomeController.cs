@@ -1,5 +1,4 @@
 using COMP003B._2024SP.Lecture4.Models;
-using COMP003B._2024SP.Lecture4.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
